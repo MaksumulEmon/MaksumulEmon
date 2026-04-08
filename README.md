@@ -20,18 +20,19 @@
 <a href="https://instagram.com/em_on37x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_jubayer_al_asad" height="30" width="40" /></a>
 </p>  -->
 
+<img width="1584" height="396" alt="Md maksumul haque emon" src="https://github.com/user-attachments/assets/0cf3f250-56e5-484f-9dc6-7262091fcdb4" />
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md+Maksumul+Haque+Emon;🚀+MERN+Stack+Developer;💻+Future+Full+Stack+developer;🔥+Always+Learning+New+Things!" />
 </p>
-
 
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MaksumulHaque.MaksumulHaque&left_color=blue&right_color=purple&left_text=Profile%20Visitors"  />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
