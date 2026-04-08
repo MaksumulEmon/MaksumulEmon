@@ -20,7 +20,10 @@
 <a href="https://instagram.com/em_on37x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_jubayer_al_asad" height="30" width="40" /></a>
 </p>  -->
 
-<img width="1584" height="396" alt="Md maksumul haque emon" src="https://github.com/user-attachments/assets/0cf3f250-56e5-484f-9dc6-7262091fcdb4" />
+
+<img width="1584" height="396" alt="githubbanner" src="https://github.com/user-attachments/assets/08852deb-49c0-434d-a441-8027fb4ea7ac" />
+
+
 
 ---
 <p align="center">
@@ -32,6 +35,20 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MaksumulHaque.MaksumulHaque&left_color=blue&right_color=purple&left_text=Profile%20Visitors"  />
 </p>
 
+
+   
+## Talking about Personal Stuff:
+
+<img align="right" alt="Workspace" height="220" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+- 🌱 I’m currently learning : React | Next.js | MongoDB | Express.js
+- 💬 Ask me about : Web Dev | MERN Stack | UI/UX | Tech
+- 👯 I’m looking to collaborate on : Open-source projects
+- 👾 Fun fact : I use tabs over spaces.
+- 📫 How to reach me : maksumulemon@gmail.com
+
+<br/>
+  
 
 
 ## 👨‍💻 About Me
