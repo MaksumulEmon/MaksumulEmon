@@ -123,10 +123,10 @@ const infoEmon = {
 </div>
 
 
-<div align="center">
+<p align="center" >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaksumulEmon&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" height="170em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaksumulEmon&layout=compact&theme=react&hide_border=true&langs_count=8" height="170em" alt="Top Languages"/>
-</div>
+</p>
 
 ---
 
